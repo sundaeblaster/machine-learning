@@ -11,3 +11,10 @@ To begin machine learning it is vital to have the following:
 - Essential python libraries (numpy, pandas, etc.)
 
 
+## Key Terms
+
+### Features and Labels
+
+
+### Supervised vs Unsupervised Learning
+
